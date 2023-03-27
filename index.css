@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@700&family=Merriweather&family=Playfair+Display:wght@900&family=Roboto:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+body {
+  background: rgb(47, 45, 77);
+  background: linear-gradient(
+    90deg,
+    rgba(47, 45, 77, 1) 0%,
+    rgba(0, 97, 94, 1) 99%,
+    rgba(27, 69, 77, 1) 100%
+  );
+}
+.navbar-nav {
+  padding-left: 5px !important;
+  margin: 0 0 0 50vw !important;
+}
+.navbar-nav a {
+  margin-left: 3px !important;
+  color: white !important;
+  font-family: "Roboto", sans-serif;
+}
+.navbar-toggler {
+  margin: 0 0 0 71vw !important;
+}
+.port {
+  font-family: "Crimson Text", serif;
+}
+.about
+{
+    margin: 30vh auto 20vh auto !important;
+}
+.pf img{
+    width: 360px;
+    float: right;
+}
+.about{
+    font-family: 'Merriweather', serif;
+}
+#desig
+{
+    color: rgb(231, 71, 13);
+}
+.about a:hover{
+    border: 50% !important;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.me{
+    color: aqua;
+}
+.aboutme
+{
+    margin: auto !important;
+}
